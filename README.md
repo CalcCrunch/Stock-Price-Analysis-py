@@ -1,6 +1,6 @@
 # Stock Analysis (Python)
 - A basic web application for stock price analysis of various companies
-- Will be developed as a full-stack application
+- Will be developed as a full-stack application using Flask micro web framework
 - Front-end: "Enter ticker/symbol"
 - Front-end: A very basic, no-frills view so that focus is on functionality of application (minimal HTML/CSS)
 - Back-end: Fetches various data about the stock
